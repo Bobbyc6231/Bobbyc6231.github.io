@@ -35,12 +35,12 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
+    background-color: #000000; /* black */
     color: #555555;
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: #86EC09 ; /* green */
     color: #ffffff;
 }
 
@@ -59,7 +59,7 @@ a {
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
+    background-color: #86EC09; /* Light blue*/
     color: #fff;
 }
 
@@ -76,6 +76,7 @@ a {
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
+    color: white !important;
 }
 
 .navbar-nav li a:hover {
