@@ -76,9 +76,9 @@ a {
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
-    color: white !important;
+    background-color: #86EC09 !important;
 }
 
 .navbar-nav li a:hover {
-    color: #2e72a1 !important;
+    color: Blacks !important;
 }
